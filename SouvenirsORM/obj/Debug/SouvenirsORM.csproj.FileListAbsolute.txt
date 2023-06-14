@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\bin\Debug\SouvenirsORM.exe.config
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\bin\Debug\SouvenirsORM.exe
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\bin\Debug\SouvenirsORM.pdb
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.exe
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.pdb
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.Migrations.InitialMigration.resources
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-10\Desktop\gosho 11a\SouvenirsORM\obj\Debug\SouvenirsORM.Display.resources
